@@ -1,5 +1,5 @@
 def countdown
-  x = 1
+  counter = 0
   while condition
 
   end
