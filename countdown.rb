@@ -1,6 +1,6 @@
 def countdown(number)
   counter = 0
-  while condition
+  while number > 0
 
   end
 end
